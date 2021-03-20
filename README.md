@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ReactJS.
 ✌
 
-My new warrior profile:
+My new warrior profile:\
 ![alt text](https://www.codewars.com/users/Ronny011/badges/large "Logo Title Text 1")
