@@ -4,4 +4,4 @@
 
 My new warrior profile:\
 \
-![alt text](https://www.codewars.com/users/Ronny011/badges/large "Logo Title Text 1")
+![alt text](https://www.codewars.com/users/Ronny011/badges/large "Codewars")
